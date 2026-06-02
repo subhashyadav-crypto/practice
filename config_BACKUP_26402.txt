@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+API_URL=NEW_URL
+=======
+API_URL=UAT_URL
+>>>>>>> uat
